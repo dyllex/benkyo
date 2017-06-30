@@ -1,0 +1,73 @@
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+    background: #ecf0f1;
+}
+
+.navbar-inverse {
+    background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.image1 {
+    background-image:
+    url(https://riki.dotabuff.com/c/0bb8f2d50f6969cb7c167b52b5c176ccd13dd2ef/687474703a2f2f692e696d6775722e636f6d2f66634e387359312e6a7067);
+}
+
+.image2 {
+    background-image:
+    url(https://i.ytimg.com/vi/uE_rqn6nUUM/maxresdefault.jpg);
+}
+
+.image3 {
+    background-image:
+    url(http://s2.buzzhand.net/uploads/a7/1/268666/14164471059763.jpg);
+}
+
+.image4 {
+    background-image:
+    url(https://image.redbull.com/rbcom/010/2016-02-16/1331777012731_2/0010/1/1500/1000/1/badman-has-made-spectre-the-new-top-tier-carry.jpg);
+}
+
+.image5 {
+    background-image:
+    url(http://7wallpapers.net/wp-content/uploads/10_Dota2-Legion-Commander.jpg);
+}
+
+.image6 {
+    background-image:
+    url(http://media.steampowered.com/apps/dota2/posts/slark_full.jpg);
+}
+
+.image7 {
+    background-image:
+    url(http://cdn.dota2.com/apps/dota2/images/blogfiles/fv/faceless_void.png);
+}
+
+.image8 {
+    background-image:
+    url(https://www.pcgamesn.com/sites/default/files/juggernaut%20arcana.png);
+}
+
+.image9 {
+    background-image:
+    url(https://wallpaperscraft.com/image/clockwerk_dota_2_art_95198_1024x600.jpg);
+}
+
