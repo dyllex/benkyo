@@ -7,7 +7,7 @@ function isEven(num) {
 // factorial()
 // Write a function factorial() which takes a single numeric argument and return the factorial of that number
 function factorial(num) {
-    if (num == 0){
+    if (num == 0) {
         return 1;
     }
     else {
