@@ -12,7 +12,7 @@ function factorial(num) {
     }
     else {
         for (var i = num-1; i > 0; i--) {
-            num = num * i;
+            num *= i;
         }
         return num;
     }
