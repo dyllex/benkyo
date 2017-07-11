@@ -39,3 +39,6 @@ Finished Bootstrap tutorials. Started JavaScript.
 
 7/6/17:
 Finished JS Intro, Control Flow, Functions, Arrays.
+
+7/10/17:
+Finished JS Objects, DOM Manipulation.
