@@ -1,5 +1,5 @@
-# benkyo
-Exercises and practice for learning HTML, CSS, JavaScript
+#benkyo
+Exercises and practice for learning HTML, CSS, JavaScript, Python
 
 Progress so far:
 
@@ -42,3 +42,12 @@ Finished JS Intro, Control Flow, Functions, Arrays.
 
 7/10/17:
 Finished JS Objects, DOM Manipulation.
+
+7/11/17:
+Talked to Neil. Assigned to AssetShare project.
+
+7/12/17:
+Talked to Paulus. Assigned to TimeCard project.
+
+7/13/17:
+Started Python: Getting Started.
